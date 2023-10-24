@@ -8,4 +8,10 @@ public static int substractMethod (int num1, int num2){
 }
 
 
+
+    public static int add(int n1, int n2){
+        return n1 + n2;
+
+    }
+
 }
