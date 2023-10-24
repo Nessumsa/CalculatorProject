@@ -3,9 +3,9 @@ public class Calculator {
         System.out.println("Hello world!");
     }
 
-public static int substractMethod (int num1, int num2){
-        return num1 - num2;
-}
+    public static int substractMethod (int num1, int num2){
+            return num1 - num2;
+    }
 
 
 
