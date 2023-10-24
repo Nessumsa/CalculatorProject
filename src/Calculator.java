@@ -14,4 +14,9 @@ public static int substractMethod (int num1, int num2){
 
     }
 
+    public static int tripleAdd(int num1, int num2, int num3){
+        return add(add(num1, num2),num3);
+    }
+
+
 }
